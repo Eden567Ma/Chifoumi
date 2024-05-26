@@ -1,10 +1,6 @@
 # Rapport de projet 
 
 
-## Groupe 02 : Vendredi 
-* Wilfried EUGSTER
-* Massilva OUAKED
-
 
 
 ## _Description des choix importants d'implémentation_
